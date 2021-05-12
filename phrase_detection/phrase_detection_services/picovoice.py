@@ -1,0 +1,1 @@
+# picovoice_demo_file --input_audio_path audio/triple_double.wav --keyword_path models/picovoice/triple_double_mac_2021-03-21-utc_v1_9_0.ppn --context_path models/picovoice/triple_double_en_mac_2021-04-02-utc_v1_6_0.rhn
